@@ -9,3 +9,4 @@ As the level progresses the sequence to be remembered increases, and if you sele
 You can play the game here. [Simon game](https://bhavesh0902.github.io/Simon-game/)
 
 Sounds and animations are done using jQuery. It is primarily built using html, css and javascript with references to jQuery's API.
+**For better experience of the game, download the zip file and open index.html file in your browser instead of using the above link**
